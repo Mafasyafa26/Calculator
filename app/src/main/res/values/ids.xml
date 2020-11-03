@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btn_one" type="id" />
+    <item name="btn_two" type="id" />
+    <item name="btn_three" type="id" />
+    <item name="btn_four" type="id" />
+    <item name="btn_five" type="id" />
+    <item name="btn_six" type="id" />
+    <item name="btn_seven" type="id" />
+    <item name="btn_eight" type="id" />
+    <item name="btn_nine" type="id" />
+    <item name="btn_zero" type="id" />
+    <item name="btn_point" type="id" />
+    <item name="btn_add" type="id" />
+    <item name="btn_minus" type="id" />
+    <item name="btn_times" type="id" />
+    <item name="btn_divide" type="id" />
+    <item name="btn_clear" type="id" />
+    <item name="btn_equal" type="id" />
+    <item name="et_result" type="id" />
+</resources>
